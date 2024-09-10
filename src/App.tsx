@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       это ветка create new branch
-      commit 2
+      commit 3
     </div>
   );
 }
