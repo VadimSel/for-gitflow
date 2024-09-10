@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       это ветка create new branch
       commit 3
+      ветка main
     </div>
   );
 }
