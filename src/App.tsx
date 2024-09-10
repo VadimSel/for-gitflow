@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      это ветка мейн фром
+      это ветка create new branch
     </div>
   );
 }
